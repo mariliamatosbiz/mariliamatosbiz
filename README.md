@@ -1,4 +1,5 @@
 - 👋 Oi, eu sou @mariliamatosbiz
 - 👀 Estou interessado em novas oportunidades.
-- 🌱 Atualmente estou aprendendo Python, PostgreSQL, HTML e CSS
+- Sou Analista de Dados, possuindo conhecimento em PostgreSQL, SQLServer, PowerBI.
+- 🌱 Atualmente estou aprendendo Python.
 - 📫 LinkedIn: https://www.linkedin.com/in/mariliamatosbiz/ 
