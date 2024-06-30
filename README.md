@@ -7,7 +7,8 @@
 - 👀 Estou interessado em novas oportunidades.
 - Sou Analista de Dados, possuindo conhecimento em PostgreSQL, SQLServer, PowerBI.
 - 🌱 Atualmente estou aprendendo Python.
-[Personal Blog](https://mbtech.tec.br/)
+
+[MB Tech - Soluções em Tecnologias](https://mbtech.tec.br/)
 
 
 <div align="center"> <h3>Overview <h3>
