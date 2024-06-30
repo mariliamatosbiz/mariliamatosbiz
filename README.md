@@ -1,15 +1,12 @@
-- 👋 Oi, eu sou @mariliamatosbiz
-- 👀 Estou interessado em novas oportunidades.
-- Sou Analista de Dados, possuindo conhecimento em PostgreSQL, SQLServer, PowerBI.
-- 🌱 Atualmente estou aprendendo Python.
-- 📫 LinkedIn: https://www.linkedin.com/in/mariliamatosbiz/ 
-
 # Marília de Matos Biz :woman_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariliamatosbiz/)](https://www.linkedin.com/in/mariliamatosbiz/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tech.mb2022@gmail.com)](mailto:tech.mb2022@gmail.com)
 
 #
+- 👀 Estou interessado em novas oportunidades.
+- Sou Analista de Dados, possuindo conhecimento em PostgreSQL, SQLServer, PowerBI.
+- 🌱 Atualmente estou aprendendo Python.
 [Personal Blog](https://mbtech.tec.br/)
 
 
